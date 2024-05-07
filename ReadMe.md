@@ -1,5 +1,6 @@
 # This is an only free version.
-New version is updated.
+## New version is updated.
+
 ========================Project Plan & Algorithms==============================:
    - create admin wallet, and admin deposit ETH to this address. (app should wait while its' ETH balance > 0)
    - Ask User -> For only volume  OR  Increasing Holders? -- Y or N
